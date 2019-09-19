@@ -1,0 +1,18 @@
+#bio{
+	text-align: center;
+	margin: 0 auto;
+}
+
+#contact {
+	display: flex;
+	margin-top: 3%;
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+
+}
+
+#about-title {
+	padding-top: 8%;
+}
